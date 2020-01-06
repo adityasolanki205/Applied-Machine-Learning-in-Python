@@ -24,7 +24,11 @@ In this repository all the required files are present to perform all the machine
 
     - **Assignment4.ipynb** - Assignment for week 4 in this course. (This file uses train.csv, test.csv, addresses.csv and latlons.csv which is also included in the repo)
 
-3. Supporting files:
+3. Additional Notebooks:
+    - **Classifier+Visualization.ipynb** - This is the practice notebook for visualization of various classfication alogrithms.
+
+
+4. Supporting files:
 
     - train.csv
 
