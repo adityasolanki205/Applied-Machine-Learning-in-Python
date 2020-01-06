@@ -1,7 +1,7 @@
 
 # Applied Machine Learning in Python
  
-This course is introduction to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course includes introduction to machine learning and how is it different than descriptive statistics. This course introduces the scikit learn toolkit . This course helps in understanding The issue of dimensionality of dataand the task of clustering data, as well as evaluating those clusters. Supervised approaches for creating predictive models have been described, and using scikit learn, predictive modelling methods are introduction for data generalizability (e.g. cross validation, overfitting). .  
+This course is introduction to applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. The course includes introduction to machine learning and how is it different than descriptive statistics. This course introduces the scikit learn toolkit . This course helps in understanding The issue of dimensionality of dataand the task of clustering data, as well as evaluating those clusters. Supervised approaches for creating predictive models have been described, and using scikit learn, predictive modelling methods are introduction for data generalization (e.g. cross validation, overfitting). .  
 
 In this repository all the required files are present to perform all the machine learning tasks. All the items are defined as below
 
